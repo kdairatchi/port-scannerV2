@@ -1,5 +1,3 @@
-Here's a perfect GitHub repository README for your port scanner project:
-
 **Port Scanner V2**
 =====================
 
