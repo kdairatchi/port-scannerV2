@@ -1,5 +1,27 @@
 # port-scannerV2
 
+# Port Scanner and ExploitDB Integration
+
+This repository contains a port scanner and ExploitDB integration script.
+
+## Requirements
+
+*   Python 3.x
+*   sqlite3
+*   requests
+
+## Usage
+
+1.  Clone the repository: `git clone https://github.com/kdairatchi/port-scanner-exploitdb.git`
+2.  Install the requirements: `pip install -r requirements.txt`
+3.  Run the script: `python main.py`
+
+## Note
+
+This script is for educational purposes only. Do not use it to scan or exploit systems without permission.
+
+
+
 
 **port_scanner.py**
 ```python
